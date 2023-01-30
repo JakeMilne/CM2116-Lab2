@@ -1,5 +1,9 @@
 public class PowerExperiments {
     static int count = 0;
+    //     //1 1. n+2  2. O(n)
+    //     //2 1. n+5 2. O(n)
+    //     //3 1. n^2+1 2. O(n^2) 
+
     public static void main(String[] args) throws Exception {
         simplePowerExperiments();
         
