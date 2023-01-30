@@ -43,7 +43,7 @@ public class PowerExperiments {
             smartPower(2, i);
             float logn = (int)(100*count/Math.log(i));   
             logn = logn/100; //2dp
-            System.out.println(i + "," + count + "," + logn);
+            System.out.println(i + "," + count + ", " + logn);
         }
     }
 }
